@@ -2,7 +2,7 @@
 ## KMeans Clustering (Unsupervised ML)
 ### The task to predict optimum no. of clusters for given "Iris" dataset and represent it visually
 Given dataset has 4 variables as SepalLengthCm, SepalWidthCm,	PetalLengthCm	& PetalWidthCm.
-#### Elbow method is used to get optimum no. of clusters
+#### Elbow method is used to get optimum no. of clusters (Here, K = 3)
 <img src="Elbow Plot.png">
 Taking 2 features SepalLengthCm & SepalWidthCm, clustering will be as follows:
 <img src="Sepal_length vs Sepal_width .png">
